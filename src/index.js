@@ -7,6 +7,7 @@ import reducer from './reducers'
 import App from './components/App';
 import registerServiceWorker from './registerServiceWorker';
 
+//あああああいうえお
 
 const store = createStore(reducer)
 
